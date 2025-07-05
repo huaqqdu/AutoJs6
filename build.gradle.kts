@@ -16,7 +16,10 @@ allprojects {
         maven("https://maven.aliyun.com/repository/gradle-plugin")
         maven("https://maven.aliyun.com/repository/jcenter")
         maven("https://maven.aliyun.com/repository/public")
-        maven { url 'https://jitpack.io' } // 👈 添加这里
+        // ✅ 正确添加 JitPack
+        maven {
+            url = uri("https://jitpack.io")
+        }
         gradlePluginPortal()
     }
 }
