@@ -5,7 +5,7 @@
     <img src="https://s1.imagehub.cc/images/2023/03/07/af8ed087c9d354b9ab6142aae7bbafb6.png" alt="autojs6-banner_800×224" border="0" width="704" />
   </p>
 
-  <p>Android 平台支持无障碍服务的 JavaScript 自动化工具</p>
+  <p>Android hua 平台支持无障碍服务的 JavaScript 自动化工具</p>
 
   <p>
     <a href="http://download.autojs6.com"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/SuperMonster003/AutoJs6"/></a>
